@@ -6,6 +6,6 @@
 -->
 
 
-Data Scientist & Analyst with experience in ML, analytics, dashboards, ETL, and AWS.
+Data Engineer with experience in ML, analytics, dashboards, ETL, and AWS.
 I enjoy turning data into insights and building scalable AI systems.
 Here you'll find my projects, notebooks, and ML experiments.
